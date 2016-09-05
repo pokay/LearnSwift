@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5A7C960C56CDE33780AB024CE0684B617D03DBDF" : 0,
+    "FE95CB3CC6A8E1FF28BFEC42731DE79D6A0FA0CE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A7804E24-2A5B-40D9-99CD-9481C13D0FB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5A7C960C56CDE33780AB024CE0684B617D03DBDF" : "LearnSwift\/dicegame\/",
+    "FE95CB3CC6A8E1FF28BFEC42731DE79D6A0FA0CE" : "LearnSwift\/RockPaperScissors\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LearnSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LearnSwift.xcWorkSpace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pokay\/SwiftProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A7C960C56CDE33780AB024CE0684B617D03DBDF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pokay\/SwiftProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FE95CB3CC6A8E1FF28BFEC42731DE79D6A0FA0CE"
+    }
+  ]
+}

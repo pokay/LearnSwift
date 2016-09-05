@@ -1,0 +1,3 @@
+[submodule "superNotepad/SQLite.swift"]
+	path = superNotepad/SQLite.swift
+	url = https://github.com/stephencelis/SQLite.swift.git

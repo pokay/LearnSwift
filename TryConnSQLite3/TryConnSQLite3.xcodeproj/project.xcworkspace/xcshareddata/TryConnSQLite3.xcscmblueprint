@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "282CD5038821426FC0DCDD557F4A4F5DB9F6E41E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "282CD5038821426FC0DCDD557F4A4F5DB9F6E41E" : 0,
+    "2CEAEAA908B469CE9CCCDB1039DB2B0AEEA5CDA4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69F1CA43-9ED9-4E06-B19D-E5E09C3850D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "282CD5038821426FC0DCDD557F4A4F5DB9F6E41E" : "LearnSwift\/",
+    "2CEAEAA908B469CE9CCCDB1039DB2B0AEEA5CDA4" : "LearnSwift\/TryConnSQLite3\/SQLiteDB\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TryConnSQLite3",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TryConnSQLite3\/TryConnSQLite3.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pokay\/SwiftProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "282CD5038821426FC0DCDD557F4A4F5DB9F6E41E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pokay\/SQLiteDB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CEAEAA908B469CE9CCCDB1039DB2B0AEEA5CDA4"
+    }
+  ]
+}
